@@ -1,6 +1,6 @@
 {
   "name": "papyrus.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Papyrus.js: A library for interacting with the Papyrus v6 API.",
   "main": "index.js",
   "repository": "https://git.nosadnile.net/papyrus/papyrus.js",

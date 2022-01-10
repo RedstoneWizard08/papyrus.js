@@ -1,0 +1,25 @@
+{
+  "name": "papyrus.js",
+  "version": "1.0.0",
+  "description": "Papyrus.js: A library for interacting with the Papyrus v6 API.",
+  "main": "index.js",
+  "repository": "https://git.nosadnile.net/papyrus/papyrus.js",
+  "author": "Jacob Sapoznikow <jacob1coder@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "publishConfig": {
+    "registry": "http://dns.nosadnile.net:4873/"
+  },
+  "scripts": {
+    "test": "echo \"No test specified.\""
+  }
+}
